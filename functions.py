@@ -18,12 +18,10 @@ def add_student(name, student_id=223):
 
 
 def var_args(name, **kwargs):
- §=	print(name)
+	print(name)
 	print(kwargs["description"],kwargs["feedback"])
 
 
-						
-				
 student_list = get_students_titlecase()
 
 add_student(name = "Mark",student_id= 15)
