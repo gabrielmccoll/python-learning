@@ -1,3 +1,4 @@
+students = []
 class Student:
 	
 	school_name = "Springfield Elementary"
