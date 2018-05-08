@@ -1,3 +1,4 @@
+from student import Student
 class HighSchoolStudent(Student): #derived class from parent
 	school_name = "Springfield High School"
 	
