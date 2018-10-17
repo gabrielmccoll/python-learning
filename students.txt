@@ -2,4 +2,4 @@ ko
 poll
 tit
 yiggi
-snugg
+snugg1
